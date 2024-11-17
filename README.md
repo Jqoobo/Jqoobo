@@ -1,5 +1,5 @@
 <div align="center">
-<img src="myMascot.png" alt="Opis zdjęcia" width="550" height="auto">
+<img src="images/myMascot.png" alt="Opis zdjęcia" width="550" height="auto">
 </div>
 
 # Hello, welcome to my profile! ✌️
@@ -18,9 +18,15 @@ at UITM in Rzeszow 🎓 and always excited to learn new skills 🛠️
 
 Outside of coding, I'm into music 🎶, pop culture 🎬, and cycling 🚴🏻‍♂️
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/jakub-rzepka/">
+    <img src="images/linkedin.gif" alt="LinkedIn" width="50">
+  </a>
+</div>
 
-
-
+<div align="center">
+<img src="images/pacman.gif" alt="Opis zdjęcia" width="auto" height="auto">
+</div>
 
 <!--
 **Jqoobo/Jqoobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
