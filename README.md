@@ -1,5 +1,5 @@
 <div align="center">
-<img src="myMascot.png" alt="Opis zdjęcia" width="700" height="auto">
+<img src="myMascot.png" alt="Opis zdjęcia" width="600" height="auto">
 </div>
 ## Hi there 👋
 
