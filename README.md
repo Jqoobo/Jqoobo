@@ -1,7 +1,22 @@
 <div align="center">
-<img src="myMascot.png" alt="Opis zdjęcia" width="600" height="auto">
+<img src="myMascot.png" alt="Opis zdjęcia" width="550" height="auto">
 </div>
-## Hi there 👋
+
+# Hello, welcome to my profile! ✌️
+
+I'm a Frontend Developer from Poland 🇵🇱  
+Passionate about Web3 and Blockchain, focusing on the Internet Computer (ICP) network 🌐
+
+My main tech stack includes Vue, React, and Astro —  
+tools I enjoy using to create smooth, intuitive experiences ⭐️
+
+With a love for clean design,  
+I craft minimalistic, user-friendly interfaces 💎
+
+I'm currently pursuing a Master's in Computer Science  
+at UITM in Rzeszow 🎓 and always excited to learn new skills 🛠️
+
+Outside of coding, I'm into music 🎶, pop culture 🎬, and cycling 🚴🏻‍♂️
 
 
 
