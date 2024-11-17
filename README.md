@@ -1,4 +1,6 @@
-![Opis zdjęcia](myMascot.png)
+<div align="center">
+<img src="myMascot.png" alt="Opis zdjęcia" width="700" height="auto">
+</div>
 ## Hi there 👋
 
 
