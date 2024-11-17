@@ -18,14 +18,10 @@ at UITM in Rzeszow 🎓 and always excited to learn new skills 🛠️
 
 Outside of coding, I'm into music 🎶, pop culture 🎬, and cycling 🚴🏻‍♂️
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jakub-rzepka/">
-    <img src="images/linkedin.gif" alt="LinkedIn" width="50">
+<div align="left">
+  <a href="https://www.linkedin.com/in/jakub-rzepka/" target="_blank">
+    <img src="images/linkedin.gif" alt="LinkedIn" width="150">
   </a>
-</div>
-
-<div align="center">
-<img src="images/pacman.gif" alt="Opis zdjęcia" width="auto" height="auto">
 </div>
 
 <!--
