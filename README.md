@@ -7,7 +7,7 @@
 I'm a Frontend Developer from Poland 🇵🇱  
 Passionate about Web3 and Blockchain, focusing on the Internet Computer (ICP) network 🌐
 
-My main tech stack includes Vue, React, and Astro —  
+My main tech stack includes TS & JS, React, Vue, Nuxt, Astro, Tailwind —  
 tools I enjoy using to create smooth, intuitive experiences ⭐️
 
 With a love for clean design,  
