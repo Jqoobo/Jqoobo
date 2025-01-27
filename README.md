@@ -1,5 +1,5 @@
 <div align="center">
-<img src="images/mario.gif" alt="Opis zdjęcia" width="550" height="auto">
+<img src="images/mario.gif" alt="Opis zdjęcia" width="1012" height="auto">
 </div>
 
 # Hello, welcome to my profile! ✌️
