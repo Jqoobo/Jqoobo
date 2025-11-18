@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 <img src="images/mario.gif" alt="Opis zdjęcia" width="1012" height="auto">
 </div>
@@ -24,7 +25,7 @@ Outside of coding, I'm into music 🎶, pop culture 🎬, and cycling 🚴🏻�
   </a>
 </div>
 
-<!--
+
 **Jqoobo/Jqoobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
