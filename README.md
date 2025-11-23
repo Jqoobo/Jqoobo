@@ -6,7 +6,7 @@
 # Hello, welcome to my profile! ✌️
 
 I'm a Frontend Developer from Poland 🇵🇱  
-Passionate about Web3 and Blockchain, focusing on the Internet Computer (ICP) network 🌐
+Building Perfect Pixel apps in Web2 & Web3 💎
 
 My main tech stack includes TS & JS, React, Vue, Nuxt, Astro, Tailwind —  
 tools I enjoy using to create smooth, intuitive experiences ⭐️
@@ -14,10 +14,12 @@ tools I enjoy using to create smooth, intuitive experiences ⭐️
 With a love for clean design,  
 I craft minimalistic, user-friendly interfaces 💎
 
-I'm currently pursuing a Master's in Computer Science  
-at UITM in Rzeszow 🎓 and always excited to learn new skills 🛠️
+I have a Master’s degree in Computer Science from UITM in Rzeszow 🎓
+and always excited to learn new skills 🛠️
 
-Outside of coding, I'm into music 🎶, pop culture 🎬, and cycling 🚴🏻‍♂️
+Outside of coding, 
+I love to spend time with my favourite person 💞 
+also I'm into music 🎶, pop culture 🎬, and cycling 🚴🏻‍♂️
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jakub-rzepka/" target="_blank">
